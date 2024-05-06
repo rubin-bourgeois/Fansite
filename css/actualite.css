@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: rgba(223, 37, 37, 0.249);
+}
+header h1{
+    margin: 0;
+}
+header ul{
+    margin: 0;
+}
+header nav ul {
+    margin-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    list-style: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    gap: 250px;
+    font-size: 20px;
+    justify-content: center;
+}
+header nav a{
+    text-decoration: none;
+    color: rgb(125, 6, 6);
+}
+h1{
+    text-align: center;
+    font-family: fantasy;
+}
+.main2{
+    background-color: brown;
+}
+.main2 .sect1{
+    margin-left: 250px;
+    padding-top: 80px;
+}
+.main2 p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 40px;
+}
+.secondsection img{
+    width: 500px;
+    border-radius: 20px;
+    display: flex;
+}
+.secondsection{
+    display: flex;
+    border: 2px solid green;
+    border-radius: 20px;
+    gap: 40px;
+}
+.ash2{
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.thirdpart{
+    display: flex;
+    gap: 40px;
+    margin-top: 50px;
+    border: 2px solid rgb(234, 27, 234);
+    border-radius: 20px;
+}
+.thirdpart img{
+    width: 500px;
+    border-radius: 20px;
+}
+.modern{
+    display: flex;
+    gap: 40px;
+    margin-top: 50px;
+    border: 2px solid rgb(254, 50, 14);
+    border-radius: 20px;
+}
+.modern img{
+    width: 500px;
+    border-radius: 20px;
+}
+footer{
+    background-color: black;
+    padding-bottom: 25px;
+}
+footer p{
+    color: white;
+    padding-top: 25px;
+    margin-left: 40px;
+}
